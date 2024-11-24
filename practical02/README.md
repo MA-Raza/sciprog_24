@@ -9,7 +9,7 @@
   
 ## Introduction:  
 
-This folder contains the code files for Practical 02.  
+This directory contains the code files for Practical 02.  
 
 * The C code contained in file `Conversion.c` converts a number into its binary representation, and prints out the original number, its binary representation and its length as an output.  
 
