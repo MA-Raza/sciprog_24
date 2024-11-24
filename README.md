@@ -13,7 +13,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University College Dublin (UCD), Ireland 
 
 | **Name:**           | Muhammad Ahmad Raza                                      |
-|---------------------|----------------------------------------------------------|
 | **Student Number:** | 23212489                                                 |
 | **Institute:**      | UCD School of Mechanical and Materials Engineering       |
 |                     | University College Dublin (UCD), Ireland                |
