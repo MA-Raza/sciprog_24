@@ -1,8 +1,8 @@
 # Git Assignment Project
 
 
-* **Name:**             Muhammad Ahmad Raza
-* **Student Number:**   23212489
+* **Name:** Muhammad Ahmad Raza
+* **Student Number:** 23212489
 * **Institute:**        UCD School of Mechanical and Materials Engineering
                         University College Dublin (UCD), Ireland
 
@@ -10,7 +10,14 @@
 * **Name:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Muhammad Ahmad Raza  
 * **Student Number:**&nbsp;&nbsp;&nbsp;23212489  
 * **Institute:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UCD School of Mechanical and Materials Engineering,    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University College Dublin (UCD), Ireland  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University College Dublin (UCD), Ireland 
+
+| **Name:**           | Muhammad Ahmad Raza                                      |
+|---------------------|----------------------------------------------------------|
+| **Student Number:** | 23212489                                                 |
+| **Institute:**      | UCD School of Mechanical and Materials Engineering       |
+|                     | University College Dublin (UCD), Ireland                |
+
 
  
 |--------------------|----------------------------------------------------------|  
