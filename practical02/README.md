@@ -30,11 +30,13 @@ and prints out the difference between the two calculated values to show that flo
 ## Compiling:  
 
 To compile `Conversion.c` execute:  
+
 ```bash
 gcc -o Conversion Conversion.c -lm
 ```
 
 To compile `Sum.c` execute:  
+
 ```bash
 gcc -o Sum Sum.c
 ```
@@ -42,6 +44,7 @@ gcc -o Sum Sum.c
 ## Running:  
 
 Run the compiled `Conversion.c` using:  
+
 ```bash
 ./Conversion
 ```
@@ -51,7 +54,9 @@ The output should be:
 The number of digits is 25  
 inum=33554431,  fnum=33554432.000000, inum in binary=1111111111111111111111111
 ```
+
 Run the compiled `Sum.c` using:  
+
 ```bash
 ./Sum
 ```
