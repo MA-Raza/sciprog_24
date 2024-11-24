@@ -10,7 +10,7 @@
 ## Introduction:  
 This directory contains the code files for Practical 09.  
 
-* The C code conatined in `main_stub.c` tells if a $n\timesn$ matrix in a given file is a magic square or not. A magic square is a $n\timesn$  matrix where the row sums, column sums and diagonal sums are equal to the same number.
+* The C code conatined in `main_stub.c` tells if a ${n}\times{n}$ matrix in a given file is a magic square or not. A magic square is a ${n}\times{n}$  matrix where the row sums, column sums and diagonal sums are equal to the same number.
 
 ## Compiling:  
 
